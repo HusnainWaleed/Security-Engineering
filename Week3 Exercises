@@ -1,0 +1,130 @@
+# Answer , week 3
+
+
+## Task 1
+
+### Task 1: Lock-ins
+
+**Lock-ins**, like technological and vendor lock-ins, are when we are stuck with something and it's hard to switch to something else. 
+
+**Technological lock-ins** happen when we use one type of technology a lot, and it's tough to change to a different one. This can be a problem if the new technology doesn't work well with the old one or if it costs a lot to switch.
+
+**Vendor lock-ins** are when we rely on a particular company for stuff you need. It's like being tied to that company, and it can make it tough to try other options.
+
+Getting out of these lock-ins can be expensive and tricky. We might have to spend money on moving our stuff, teaching our team new things, and it could cause problems for our business. But if we manage to break free, we could have more choices and save money in the long run.
+
+Staying with these lock-ins might make things easier right now, but it could stop us from being flexible and competitive later on.
+
+Sources:
+1. What Is Technological and Vendor Lock-In? Techtarget. https://www.techtarget.com/searchdatacenter/definition/vendor-lock-in
+2. How to Get Away from Vendor Lock-In. Venturebeat. https://venturebeat.com/data-infrastructure/6-tips-combat-vendor-lock-in-data-gravity/
+
+
+
+## Task2: Security Psychology
+
+
+**why are phishing attacks effective enough to be widespread practice?**
+  Phishing works because scammers trick people using fake emails or messages that seem real. They use tricks like urgency or pretending to be someone important. When people get these messages, they often trust them without thinking, and that's why phishing is so common.
+  
+**why social engineering works on people?**
+    Social engineering works because it tricks us into trusting others. Scammers pretend to be someone we trust or create a fake emergency. They make us feel scared or in a hurry, so we don't think clearly and end up doing what they want, even if it's not safe.
+    
+**why many people have hard time using passwords in secure way?**
+ People struggle with passwords because it's tough to remember complex ones. So, they end up using easy ones, which are not safe. Also, having different secure passwords for various accounts is hard to manage. People often use the same password for many things, making it easy for hackers.
+ 
+**why PGP fails to be effective way to secure email?**
+PGP fails because it's too complicated for most people. Setting it up and managing the keys is confusing. Both the sender and receiver need to use it, and if something goes wrong, the whole system becomes unsafe. Most people find it hard to use, so it's not a practical solution for email security.
+
+**why it is so easy to spread malware?**
+ Malware spreads easily because people often click on suspicious links or download files from unknown sources out of curiosity. Also, outdated software has weaknesses that malware can exploit. The internet connects everyone globally, so when malware is released, it can quickly reach many people, making it spread fast.
+
+ 
+## Task 3A-Intellectual Rights:
+
+1. **Intellectual Property (IP):**
+   
+**Explanation:** Intellectual Property means protecting ideas and creations. Companies do this using patents, copyrights, and trademarks.
+
+**Example:** Apple patented the unique design of its iPhone to prevent others from copying it.
+
+2. **Copyright:**
+
+**Explanation:** Copyright protects creative works like books and music. It gives creators exclusive rights to their work.
+
+**Example:** J.K. Rowling owns the copyright to Harry Potter, controlling its use in movies and merchandise.
+
+3. **Patent:**
+
+**Explanation:** Patents protect inventions, giving inventors exclusive rights to use and sell them.
+
+**Example:** Pfizer patented the COVID-19 vaccine, allowing only them to produce and sell it.
+
+4. **Trademark:**
+
+**Explanation:** Trademarks protect logos and names. They identify products and prevent others from using similar marks.
+
+**Example:** Coca-Cola's logo and name are trademarks, unique to their products.
+
+5. **Non-Disclosure Agreements (NDAs):**
+
+**Explanation:** NDAs are agreements to keep secrets. They're important in business partnerships.
+
+**Example:** Tech companies use NDAs in collaborations to protect shared information.
+
+6. **Watermarks:**
+
+**Explanation:** Watermarks are marks on images to show they're protected. They discourage unauthorized use.
+
+**Example:** Photographers use watermarks on online images.
+
+7. **Software Licenses:**
+
+**Explanation:** Licenses define how software can be used. They protect software developers' rights.
+
+**Example:** Microsoft provides licenses for software like Microsoft Office.
+
+8. **Digital Rights Management (DRM):**
+
+**Explanation:** DRM limits digital content use. It prevents copying and sharing.
+
+**Example:** Netflix uses DRM to protect movies and shows from being downloaded and shared.
+
+9. **Software Protection Dongles:**
+
+**Explanation:** Dongles are hardware keys for software. They ensure the software is used on authorized computers only.
+
+**Example:** Design software like AutoCAD uses dongles to prevent unauthorized installations.
+
+
+## Task 3B-Freedom Information:
+
+**The Battle Between Protecting Ideas and Sharing Information: Real-Life Stories of Safeguarding Challenges**
+
+**1. Copyright Bypass: The Napster Controversy**
+
+In the late 1990s and early 2000s, there was a music-sharing website called Napster. It allowed people to share music without paying for it. This was a big problem for musicians and music companies because they weren't getting paid for their work. The people behind Napster believed that music should be free for everyone. However, musicians and music companies disagreed, saying that artists should be paid for their work. This disagreement led to lawsuits, legal cases where people argue in court. Eventually, Napster had to shut down in 2001 because it broke copyright laws.
+
+**Entities Involved:**
+- **Napster:** The website where people shared music for free.
+- **Recording Industry Association of America (RIAA):** This group represented music companies and artists. They sued Napster for breaking copyright laws.
+
+**Reasoning:**
+The people behind Napster thought music should be accessible to everyone without having to pay. Musicians and companies believed artists deserved payment for their work, leading to a legal battle.
+
+**2. DRM Circumvention: Cracking Video Game Protections**
+
+In the world of video games, companies use something called DRM to stop games from being copied and shared illegally. However, some determined gamers managed to bypass these protections. For example, the game "Assassin's Creed II" had DRM to prevent piracy. But hackers found a way around it, making the game available online without proper permission.
+
+**Entities Involved:**
+- **Ubisoft:** The company that created "Assassin's Creed II." They used DRM to protect the game.
+- **Hacking Groups and Individuals:** These are people who find ways to break the DRM protection.
+
+**Reasoning:**
+Gamers and hackers argued that DRM made playing games difficult. They felt that once DRM was removed, genuine customers could enjoy the game without any problems.
+
+**Justifications for Circumvention:**
+1. **Access and Freedom:** Some people believe that information and art should be available to everyone. They think restrictions limit creativity and learning.
+2. **Consumer Rights:** Others argue that customers who buy products should have control over what they purchased. They say intrusive protections like DRM interfere with the enjoyment of games and other media.
+
+In summary, these stories show the ongoing struggle between protecting creative work and the idea of freely sharing information. While safeguarding methods are vital for creators and businesses, the digital age has sparked a movement advocating for the free flow of information. Balancing these two perspectives remains a central debate in today's digital world.
