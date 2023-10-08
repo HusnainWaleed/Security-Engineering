@@ -31,36 +31,38 @@ Task 2
 
 **Questions: Payments**
 
-1. **Why do present day installment cards utilize a chip and not an attractive stripe?**
+1.  **Why do modern payment cards use a chip and not a magnetic stripe?**
    - Current installment cards utilize a chip since it offers upgraded security contrasted with attractive stripes. Chips produce special exchange codes for each buy, making it hard for fraudsters to clone cards. Attractive stripes, then again, store static information that can be effortlessly duplicated and utilized for unapproved exchanges.
 
-2. **What are EMV Testaments and for what reason are they applicable for installment protection?**
+2. **What are EMV Certificates and why are they relevant for payment protection?**
    - EMV (Europay, Mastercard, and Visa) testaments are cryptographic declarations utilized in chip-empowered installment cards to validate the card and the terminal during an exchange. They are significant for installment assurance since they assist with guaranteeing that both the card and the installment terminal are veritable, decreasing the gamble of card cloning and fake exchanges.
 
-3. **What assaults exist against installment cards?**
+3. **What attacks exist against payment cards?**
    - There are a few assaults against installment cards:
      - **Card-not-present (CNP)**: These assaults happen in on the web or distant exchanges where the actual card is absent. Fraudsters might utilize taken card subtleties for unapproved buys.
      - **Contactless payment**: Aggressors can utilize gadgets to skim information from contactless cards in the event that the cards' security highlights are feeble.
 
 **Questions: MFA**
 
-4. **How is multifaceted validation (MFA) utilized in banking?**
+4. **How is multi-factor authentication (MFA) used in banking?**
    - MFA in banking regularly includes utilizing at least two verification elements to confirm a client's personality. This can incorporate something the client knows (e.g., a secret word), something the client has (e.g., a savvy card or token), or something the client is (e.g., biometric information like a unique finger impression). MFA improves security by requiring various evidences of character.
 
-5. **How does multifaceted confirmation increment installment security?**
+5. **How does multi-factor authentication increase payment security?**
    - MFA increments installment security by adding an additional layer of assurance. It guarantees that regardless of whether a fraudster gets a client's secret key or card subtleties, they would in any case require admittance to the extra validation factor, making it more moving for unapproved exchanges to happen.
 
-6. **What MFA techniques are you involving in your day to day life?**
+6. **What MFA methods are you using in you daily life??**
    - In my everyday existence, I could utilize different MFA strategies, for example,
      - Two-factor verification (2FA) by means of instant messages or authenticator applications for online records.
      - Biometric confirmation, similar to unique finger impression or face acknowledgment, on my cell phone.
      - Brilliant cards or tokens for getting to get frameworks at work or for web based banking.
 
-7. **What assaults exist against various types of 2FA?**
+7. **What attacks exists against different forms of 2FA?**
    - Assaults against various types of 2FA include:
      - **Time sensitive one-time passwords (TOTP)**: Assailants might catch or phish the produced codes during login.
      - **Instant message (SMS)**: SIM trading assaults, where an aggressor assumes command over a client's telephone number, can be utilized to block SMS-based 2FA codes.
-Task 3
+
+Task 3: Card Fraud- An essay explaining the card exploitation stories.
+
 
 **Development of Card Extortion: 10 years of Changing Landscapes**
 
@@ -143,12 +145,22 @@ Subdomain TakeOver
 Task 1: Find out what the application does when you log in
 
 What methods get called and where?
-See the network tab of your browser's developer tools as well as the console
+![image](https://github.com/husnaing147/Security-Engineering/assets/96866520/4b5f374b-b586-4387-8ad2-1ec053b8f0c4)
+as seen in the picture js.js and dom.js get called in the network tab.
+
 What data gets saved?
-See the storage tab of your browser's developer tools
+
+As it can be seen in the screenshot these data are saved.
+local and session storage, indexed db, Web SQL, Cookies and cache storage
+![image](https://github.com/husnaing147/Security-Engineering/assets/96866520/421b424e-13c9-4451-9da0-b0f7144114ce)
+
+
 Is any data sent to external services?
-You can inspect the request headers and body via developer tools
+No data is sent to external serviecs as per my observation.
+
 Is there anything hazardous about the login process
+Yes there comes an error and I have attached the screenshot.
+![image](https://github.com/husnaing147/Security-Engineering/assets/96866520/3aae7aa0-2407-47d8-bc56-cb54298de263)
 
 
 
