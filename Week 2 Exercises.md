@@ -1,5 +1,5 @@
  week 2
-Task 1
+Task 1A
 
 1. **"Not Secure" Cautioning in the Main Picture**:
    - Assuming I experience the "Not Secure" cautioning in the primary picture, I will be wary about visiting the site. This cautioning regularly seems when the site needs appropriate encryption, and it implies potential dangers like information interference. To relieve these dangers, I will try not to enter delicate data and reevaluate my choice to utilize the site.
@@ -27,7 +27,46 @@ Task 1
      - Spaces with various high level areas (TLDs), like .net or .co.
    - To support observing, I could utilize online apparatuses or administrations to get cautions about expected dangers, assisting me with shielding my clients from phishing tricks.
 
-Task 2
+
+
+**Task 1B**
+
+Digital certificates are used to verify the identity of a website or server. They are used in a variety of applications, including online banking, e-commerce, and secure email.
+
+Certificates are important for online payments and banking security because they help to prevent fraud and protect customer data. For example, when you visit a bank's website, the certificate will verify that the website is actually operated by the bank and not by an impostor. This helps to prevent phishing attacks, where fraudsters create fake websites that look like real websites in order to steal customer login credentials.
+
+Certificates also have a number of other uses, such as:
+
+Securely transferring files over the internet
+Digitally signing documents
+Authenticating users to applications
+
+TLS (Transport Layer Security) is a cryptographic protocol that provides secure communication over a computer network. It is used in a variety of applications, including online banking, e-commerce, and secure email.
+
+TLS mitigates a number of attacks, including:
+- Man-in-the-middle attacks: TLS prevents attackers from intercepting and modifying data in transit.
+- Eavesdropping attacks: TLS prevents attackers from eavesdropping on data in transit.
+- Impersonation attacks: TLS prevents attackers from impersonating websites or servers.
+
+This is important for online banking because it helps to protect customer data from being stolen or tampered with.
+
+Browsers use certificates for ensuring browsing security by verifying the identity of websites and servers. When you visit a website, your browser will check the certificate to see if it is valid and issued by a trusted certificate authority. If the certificate is valid, then your browser will establish a secure connection with the website.
+
+The warning in the picture above means that the website's certificate is not valid. This could be because the certificate is expired, revoked, or issued by an untrusted certificate authority. It is important to be careful when visiting websites that have warnings about their certificates, as they could be unsafe.
+
+**Certificate Authorities**
+
+Certificate authorities (CAs) are organizations that issue digital certificates. They are responsible for verifying the identity of website owners and servers before issuing certificates.
+
+It would be bad if a trusted certificate authority was compromised because it would allow attackers to issue fraudulent certificates. This could then be used to launch a variety of attacks, such as phishing attacks and man-in-the-middle attacks.
+
+Certificate transparency (CT) is a system that helps to prevent CAs from issuing fraudulent certificates. CT logs are public records of all certificates that have been issued by CAs. This allows anyone to audit the certificates that have been issued and to report any fraudulent certificates.
+
+Certificate transparency is important because it helps to ensure that certificates are only issued to legitimate website owners and servers. This helps to protect users from fraud and attacks.
+
+
+
+**Task 2:Payment Cards**
 
 **Questions: Payments**
 
@@ -61,8 +100,9 @@ Task 2
      - **Time sensitive one-time passwords (TOTP)**: Assailants might catch or phish the produced codes during login.
      - **Instant message (SMS)**: SIM trading assaults, where an aggressor assumes command over a client's telephone number, can be utilized to block SMS-based 2FA codes.
 
-Task 3: Card Fraud- An essay explaining the card exploitation stories.
 
+
+**Task 3: Card Fraud- An essay explaining the card exploitation stories.**
 
 **Development of Card Extortion: 10 years of Changing Landscapes**
 
@@ -137,12 +177,89 @@ Installment card tokenization plays had a crucial impact in upgrading security. 
 In outline, the development of card extortion somewhere in the range of 2008 and 2019 was set apart by a shift from card-present to card-not-present misrepresentation, driven by mechanical headways and changing exchange ways of behaving. While EMV reception decreased card-present misrepresentation, CNP and ATO assaults turned out to be more predominant. Administrative measures, innovation developments like tokenization, and the significance of forestalling information breaks have been critical in fighting these advancing card extortion dangers.
 
 
-Task 4 
+**Task 3**
 
+### Evolution of card fraud
+
+**What kinds of card fraud exist?**
+
+There are two main types of card fraud: **card-present fraud** and **card-not-present fraud**.
+
+* **Card-present fraud** occurs when the card is physically present with the fraudster at the time of the transaction. This type of fraud can include counterfeiting, skimming, and lost or stolen cards.
+* **Card-not-present fraud** occurs when the card is not physically present with the fraudster at the time of the transaction. This type of fraud can include online fraud, phone fraud, and mail order fraud.
+
+**How does card fraud type prevalence differ geographically?**
+
+Card-present fraud is more common in regions where cash is still the primary payment method. Card-not-present fraud is more common in regions where online and mobile payments are more popular.
+
+**How has the fraud landscape changed between 2008-2019? Why?**
+
+The fraud landscape has changed significantly between 2008 and 2019. Card-not-present fraud has become more common, while card-present fraud has become less common. This is due to the increasing popularity of online and mobile payments.
+
+**What type of fraud has seen a notable increase during the last decade?**
+
+Online fraud has seen a notable increase during the last decade. This is due to the increasing popularity of online shopping and the growing sophistication of online fraudsters.
+
+**What technologies or regulations have had an impact on card fraud?**
+
+A number of technologies and regulations have had an impact on card fraud. These include:
+
+* **Chip-and-PIN technology:** Chip-and-PIN technology has made it more difficult to counterfeit and skim cards.
+* **Strong customer authentication (SCA):** SCA is a regulation that requires banks to implement additional security measures for online and mobile payments. This includes measures such as two-factor authentication and one-time passwords.
+* **Fraud detection systems:** Fraud detection systems use machine learning to identify and flag fraudulent transactions.
+
+**How has the transaction landscape changed in the same period?**
+
+The transaction landscape has changed significantly in the same period. Online and mobile payments have become more popular, while cash payments have become less common.
+
+**What kind of transactions have become increasingly popular?**
+
+Online and mobile payments have become increasingly popular. This is due to the convenience and flexibility of these payment methods.
+
+**What kind of transactions have had a high risk of being fraudulent?**
+
+Online and mobile transactions have a higher risk of being fraudulent than in-person transactions. This is because it is easier for fraudsters to impersonate legitimate customers and make unauthorized transactions online and over the phone.
+
+**Has this changed at all during 2008-2019?**
+
+Yes, the risk of fraud for online and mobile transactions has increased during 2008-2019. This is due to the increasing sophistication of online fraudsters.
+
+**What effect has internet and e-commerce had on card fraud?**
+
+The internet and e-commerce have had a significant impact on card fraud. Online fraud has become more common due to the increasing popularity of online shopping.
+
+**Why is preventing data breaches important in preventing card fraud?**
+
+Data breaches can expose sensitive customer information, such as card numbers and CVVs. This information can then be used by fraudsters to make unauthorized transactions.
+
+**How does payment card tokenization help in this?**
+
+Payment card tokenization is a process that replaces a card number with a unique token. This token can be used to make payments without revealing the actual card number. This makes it more difficult for fraudsters to use stolen card numbers.
+
+**Other notable findings**
+
+- In addition to the increasing prevalence of online fraud, there has also been a rise in fraud involving contactless payments. This is because contactless payments can be made without the need to enter a PIN, making them more vulnerable to fraud.
+- Another notable trend is the increasing sophistication of fraudsters. Fraudsters are now using more sophisticated methods to steal card information and make unauthorized transactions. For example, they are using phishing emails and smishing text messages to trick consumers into revealing their card information. They are also using malware to infect computers and mobile devices, which can then be used to steal card information.
+
+**How to protect yourself from card fraud**
+
+There are a number of things that consumers can do to protect themselves from card fraud. These include:
+
+-Be careful about where you enter your card information. Only enter your card information on secure websites.
+-Use strong passwords and enable two-factor authentication for your online accounts.
+-Monitor your account statements regularly and report any unauthorized transactions immediately.
+-Be careful about clicking on links in emails and text messages. Phishing emails and text messages are a common way for fraudsters to steal personal information.
+-Be aware of the latest fraud
+
+**Task 5**
+
+
+**Task 4 **
+I spent so much time in understanding it but was able to do half of the task so not uploading the complete answers. I did not have any exoerience in inspecting the websites so it was a quite difficult task for me to do.
 
 Subdomain TakeOver
 
-Task 1: Find out what the application does when you log in
+Task A: Find out what the application does when you log in
 
 What methods get called and where?
 ![image](https://github.com/husnaing147/Security-Engineering/assets/96866520/4b5f374b-b586-4387-8ad2-1ec053b8f0c4)
@@ -164,13 +281,13 @@ Yes there comes an error and I have attached the screenshot.
 
 
 
-Task 2: Figure out which subdomain of the application is vulnerable to takeover
+Task B: Figure out which subdomain of the application is vulnerable to takeover
 
 How did you figure out the domain?
 How can you find out the hosting provider after finding out the domain?
 
 
-Task 3: Taking over the domain
+Task 3C: Taking over the domain
 
 Now that you found the target domain and the hosting provider, make an assumption that the subdomain was running in the app engine of the provider. We will be simulating a small cloud provider which handles their ipv4 allocation by simply provisioning them via roundrobin for any servers joining their app platform.
 
@@ -180,7 +297,7 @@ You can see this by monitoring the target subdomain for a change in response
 In this case the IP range is very small, and you can perform this task manually. However, in any real scenario the pool of ip addresses would be big enough to warrant automation. Create a script to automatically provision servers until you get the desired domain by utilizing the underlying API of the management portal:
 
 
-Task 4: Hijacking data
+Task D: Hijacking data
 
 Your task is to create an application that collects users that log in to the application and hijacks their session if they navigate to your subdomain page.
 
